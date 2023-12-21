@@ -1,0 +1,47 @@
+ENG
+<string name="label_auto_renewed">Auto-renewed, cancel anytime</string>
+<string name="label_special_hot_price">Special HOT PRICE\njust for you</string>
+<string name="label_all_features_unlock">All features unlock</string>
+<string name="label_special_offer_just_for_you">Special offer just for you</string>
+
+GER
+<string name="label_auto_renewed">Automatisch erneuert, jederzeit kündbar</string>
+<string name="label_special_hot_price">Sonderpreis HOT PRICE\nnur für Sie</string>
+<string name="label_all_features_unlock">Alle Funktionen freischalten</string>
+<string name="label_special_offer_just_for_you">Sonderangebot nur für Sie</string>
+
+ESP
+<string name="label_auto_renewed">Auto-renovado, cancelar en cualquier momento</string>
+<string name="label_special_hot_price">PRECIO ESPECIAL\nsólo para ti</string>
+<string name="label_all_features_unlock">Todas las funciones desbloqueadas</string>
+<string name="label_special_offer_just_for_you">Oferta especial sólo para ti</string>
+
+FR
+<string name="label_auto_renewed">Renouvellement automatique, résiliation à tout moment</string>
+<string name="label_special_hot_price">Prix spécial HOT PRICE\njuste pour vous</string>
+<string name="label_all_features_unlock">Toutes les fonctionnalités sont déverrouillées</string>
+<string name="label_special_offer_just_for_you">Offre spéciale juste pour vous</string>
+
+IT
+<string name="label_auto_renewed">Rinnovato automaticamente, annullabile in qualsiasi momento</string>
+<string name="label_special_hot_price">Prezzo speciale caldo\nsolo per voi</string>
+<string name="label_all_features_unlock">Sblocco di tutte le funzioni</string>
+<string name="label_special_offer_just_for_you">Offerta speciale solo per voi</string>
+
+PORT
+<string name="label_auto_renewed">Renovação automática, cancelar a qualquer momento</string>
+<string name="label_special_hot_price">PREÇO QUENTE especial\nsó para si</string>
+<string name="label_all_features_unlock">Desbloqueio de todas as funcionalidades</string>
+<string name="label_special_offer_just_for_you">Oferta especial só para si</string>
+
+JAP
+<string name="label_auto_renewed">自動更新、いつでも解約可能</string>
+<string name="label_special_hot_price">特別価格\nあなただけ</string>
+<string name="label_all_features_unlock">全機能ロック解除</string>
+<string name="label_special_offer_just_for_you">あなただけの特別価格</string>
+
+AR
+<string name="label_auto_renewed">تجديد تلقائي، إلغاء في أي وقت</string>
+<string name="label_special_hot_price">سعر خاص ساخن\nفقط لأجلك</string>
+<string name="label_all_features_unlock">فتح جميع الميزات</string>
+<string name="label_special_offer_just_for_you">عرض خاص لك فقط</string>
